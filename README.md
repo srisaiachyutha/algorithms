@@ -1,0 +1,18 @@
+- [ ] Kadenes algorithm
+- [ ] Sliding window
+- [ ] Top k elements
+- [ ] Combination sum backtracking
+- [ ] Combination sum dynamic programing
+- [ ] Dfs and Bfs
+- [ ] Dijkstra's algorithm
+- [ ] Belman ford algorithm
+- [ ] Prims algorithm
+- [ ] Krushkals algorithm
+- [ ] Caser Cypher encryptor
+- [ ] Run Length encoding
+- [ ] Suffix tree construction
+- [ ] Knapsack 
+- [ ] Continous median
+- [ ] Knuth - Moris - Prath algorithm
+- [ ] A * algorithm
+- [ ] Rabin Karp algorithm
